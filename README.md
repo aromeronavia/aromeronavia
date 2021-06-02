@@ -11,6 +11,6 @@ My name is Alberto Romero, been doing software engineering for 7+ years in corps
 Some of my projects here are:
 - ✔️ [Aree Hiring](https://vigorous-euclid-2398c3.netlify.app/apply/1338cc67-f2ea-41ca-9c68-95d364b4c4ef): Been working on a Technical Pre-screening tool to speed up interviewing processes at companies. Using **Netlify**, **Firebase DB** and **Cloud Functions**, **Node.js** and **Nuxt.js (Vue)**
 - 🚩 [Minesweeper](https://github.com/beeetooo/minesweeper): An adaptable minesweeper game that reuses the Minesweeper Core logic of the codebase between a Web UI and a Console UI, making the Presentation Layer an implementation detail. Done with **Node.js** primarily, added some [unit tests](https://github.com/beeetooo/minesweeper/tree/master/test) in case you want to take a look 👌
-- 🕺 [Cumbio](https://beeetooo.github.io/cumbio/): Cumbia beat generator using **Javascript** Web Audio API 💃 ambitious vision is to convert any possible song into cumbia, including Death Core and Progressive Post Hardcore (Wut!?)
+- 🕺 [Cumbio](https://beeetooo.github.io/cumbio/): Cumbia beat generator using **Javascript** Web Audio API 💃 ambitious vision is to convert any possible song into cumbia, including Metal Core and Progressive Post Hardcore (Wut!?)
 
 🚀 [Drop me a line](mailto:aromeronavia@gmail.com)!
