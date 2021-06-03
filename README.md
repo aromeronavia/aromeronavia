@@ -6,7 +6,7 @@ My name is Alberto Romero, been doing software engineering for 7+ years in corps
 - 🚀 My strongest technologies are Node.js, Vue.js, Python, Ruby and React ⚛️.
 - 🗺️ I like a lot software design 📋 how to make sure pieces match correctly at a fast pace while having to deliver value at the same time. I have been working in fast-growing environments, trying to figure out the best trade offs for the company and the team in terms of the code.
 - 🩹 My biggest weakness at the moment is Infrastructure, I have been too focused on the code aspect and I have always been surrounded by people handling that part 😅 I know some things of course but not on a deep level. That's one of my goals for 2021 of course 💪
-- 🔄 I created a community of CTOs and Technical Leaders in Mexico called [Esquina CTO](www.esquinacto.com) where we talk about product management, processes, and of course tons of engineering!
+- 🔄 I created a community of CTOs and Technical Leaders in Mexico called [Esquina CTO](https://www.esquinacto.com) where we talk about product management, processes, and of course tons of engineering!
 
 Some of my projects here are:
 - ✔️ [Aree Hiring](https://vigorous-euclid-2398c3.netlify.app/apply/1338cc67-f2ea-41ca-9c68-95d364b4c4ef): Been working on a Technical Pre-screening tool to speed up interviewing processes at companies. Using **Netlify**, **Firebase DB** and **Cloud Functions**, **Node.js** and **Nuxt.js (Vue)**
