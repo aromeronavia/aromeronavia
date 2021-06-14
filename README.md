@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-My name is Alberto Romero, been doing software engineering for 7+ years in corps and startups at Mexico and Silicon Valley.
+My name is Alberto Romero, as of Today (June 2021) I've been doing software engineering for 7+ years in corps and startups at Mexico and Silicon Valley.
 
 - 🍵 My last two years have been in leadership positions as Engineering Lead and Engineering Manager, but I have not lost focus on the code, I like to ship things and iterate fast.
 - 🩹 My biggest weakness at the moment is Infrastructure, I have been too focused on the code aspect and I have always been surrounded by people handling that part 😅 I know some things of course but not on a deep level. That's one of my goals for 2021 of course 💪
