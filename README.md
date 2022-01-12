@@ -9,5 +9,4 @@ Some of my projects from 2021 are:
 - 🎰 [Rust Exercism](https://github.com/beeetooo/exercism-rust): Some algorithm exercises done in Rust just for the purpose of learning the language.
 - 🕺 [Cumbio](https://aromeronavia.github.io/cumbio/): Cumbia beat generator using **Javascript** Web Audio API 💃 ambitious vision is to convert any possible song into cumbia, including Metal Core and Progressive Post Hardcore (Wut!?)
 
-🚀 [Drop me a line](mailto:aromeronavia@gmail.com)!
-[My personal website: ](https://aromeronavia.com)
+🚀 [Drop me a line](mailto:aromeronavia@gmail.com)! or visit my [My personal website](https://aromeronavia.com)
