@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-My name is Alberto ROmero, as of Today (January 2022) I've been doing software engineering for 7+ years in corps and startups at Mexico and Silicon Valley. My last two years have been in leadership positions as Engineering Lead and Engineering Manager, but I have not lost focus on the code, I like to ship things and iterate fast. My strongest technologies are Node.js, Vue.js, Python, Ruby and React ⚛️.
+My name is Alberto Romero, as of Today (January 2022) I've been doing software engineering for 7+ years in corps and startups at Mexico and Silicon Valley. My last two years have been in leadership positions as Engineering Lead and Engineering Manager, but I have not lost focus on the code, I like to ship things and iterate fast. My strongest technologies are Node.js, Vue.js, Python, Ruby and React ⚛️.
 
 Some of my projects from 2021 are:
 - 🗒️ [Aree Hiring](https://areehiring.com/apply/38dd989a-9c67-4f78-8ed8-255dd2107bb9): Meant to be a clone of [Toggl Hire](https://toggl.com/hire/). You can create an account by going [here](https://areehiring.com)
