@@ -1,7 +1,5 @@
 ### Welcome to my profile 👋
 
-My name is Alberto Romero, as of Today (January 2022) I've been doing software engineering for 7+ years in corps and startups at Mexico and Silicon Valley. My last two years have been in leadership positions as Engineering Lead and Engineering Manager, but I have not lost focus on the code, I like to ship things and iterate fast. My strongest technologies are Node.js, Vue.js, Python, Ruby and React ⚛️.
-
 Some of my most recent projects are:
 - ☕ [workat.coffee](https://workat.coffee): Find friendly places to work in Guadalajara, with good internet connections and relevant information for remote working. What's your office today?
 - 🎹 [Piano Keyboard](https://pianokeyboard.xyz/): Playable piano keyboard on the web exposing the different types of oscillators the [OscillatorNode](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode) offers using Web Audio API
