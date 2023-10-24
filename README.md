@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
 
 Some of my most recent projects are:
-- ☕ [workat.coffee](https://workat.coffee): Find friendly places to work in Guadalajara, with good internet connections and relevant information for remote working. What's your office today?
+- ☠️ [OnePix](https://onepix.gg/b/default): Replica of r/place (tons of cool drawings from my friends ❤️)
 - 🎹 [Piano Keyboard](https://pianokeyboard.xyz/): Playable piano keyboard on the web exposing the different types of oscillators the [OscillatorNode](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode) offers using Web Audio API
 - 🎸 [Guitar Scale Modes](https://guitarscalemodes.com): Built a page to select a specific scale from modern music (Doryan, Aeolian, etc) to be painted in a fretboard with a base note. Using Web Audio API
 - 🕺 [Cumbio](https://aromeronavia.github.io/cumbio/): Cumbia beat generator using **Javascript** Web Audio API 💃 ambitious vision is to convert any possible song into cumbia, including Metal Core and Progressive Post Hardcore (Wut!?)
