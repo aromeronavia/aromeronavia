@@ -1,8 +1,6 @@
 # Alberto Romero
 
-Senior Product Engineer at **[Prefix](https://useprefix.com)**, working remotely from Mexico City 🇲🇽
-
-→ **[aromeronavia.com](https://aromeronavia.com)**
+Senior Product Engineer at **[Prefix](https://useprefix.com)**, working remotely from Mexico City 🇲🇽. In times of AI, I still review code and do my technical specs 😅
 
 ### Now
 - **Prefix**: Raised a seed round with three engineers. Cut P95 initial load from **8s → 500ms** and CI from **18min → 4min**. In charge of multiple features to improve operational excellence at the company.
